@@ -1,0 +1,74 @@
+[
+    {
+        "img": "/images/panda.png",
+        "name": "Dunk Low 'Black White'",
+        "price":"$99.99",
+        "description": "The Nike Dunk Low ‘Black White’ also known as 'Panda' treats the retro model to an essential two-tone color scheme that accentuates the sneaker’s clean lines."
+      },
+      {
+        "img": "/images/purpledunk.png",
+        "name": "Dunk Low 'Concord'",
+        "price":"$89.99",
+        "description": "The Nike Dunk Low 'Concord' is built with smooth leather construction, featuring a crisp white base with bluish purple overlays and a color-matched Swoosh. "
+      },
+      {
+        "img": "/images/reddunk.png",
+        "name": "Dunk Low 'Gym Red'",
+        "price":"$99.99",
+        "description": "The Nike Dunk Low ‘Gym Red’ showcases a familiar two-tone design that recalls the original ‘Be True to Your School’ series from 1985."
+      },
+      {
+        "img": "/images/fksbdunk.png",
+        "name": "Dunk Low Pro SB 'Freddy Krueger'",
+        "price":"$49000.99",
+        "description": "With the Dunk Low Pro SB ‘Freddy Krueger,’ Nike pays tribute to the villain that haunts the Nightmare on Elm Street film franchise. "
+      },
+      {
+        "img": "/images/purplelobster.png",
+        "name": "Concepts x Dunk Low SB 'Purple Lobster'",
+        "price":"$1079.99",
+        "description": "Concepts and Nike SB are back at it again, with a new iteration of the 'Lobster' inspiration."
+      },
+      {
+        "img": "/images/bendunk.png",
+        "name": "Ben & Jerry's x Dunk Low SB 'Chunky Dunky'",
+        "price":"$1069.99",
+        "description": "Made in collaboration with Ben & Jerry’s, the Nike Dunk Low SB ‘Chunky Dunky’ replicates the packaging used for the ice cream brand’s Chunky Monkey flavor. "
+      },
+      {
+        "img": "/images/ofaf.png",
+        "name": "Off-White x Air Force 1 Low '07 'MoMA'",
+        "price":"$8999.99",
+        "description": "Designed by Virgil Abloh, the Off-White x Air Force 1 Low '07 'MoMA' was unveiled at Art Basel Miami Beach 2016."
+      },
+      {
+        "img": "/images/af1.png",
+        "name": "Air Force 1 '07 'Triple White'",
+        "price":"$109.99",
+        "description": "he Nike Air Force 1 ‘07 ‘Triple White’ gives the classic silhouette a blank-slate makeover, one that accentuates the shoe’s classic lines. "
+      },
+      {
+        "img": "/images/supaf1.png",
+        "name": "Supreme x Air Force 1 Low 'Box Logo - Baroque Brown'",
+        "price":"$159.99",
+        "description": "The Supreme x Nike Air Force 1 Low ‘Box Logo’ steps out in ‘Baroque Brown.’ "
+      },
+      {
+        "img": "/images/kobegrinch.png",
+        "name": "Zoom Kobe 6 Protro 'Grinch' 2020",
+        "price":"$929.99",
+        "description": "The Nike Zoom Kobe 6 Protro ‘Grinch’ 2020 brings back a beloved colorway initially released in 2010 as part of the Nike Basketball Christmas Day Collection."
+      },
+      {
+        "img": "/images/airmax.png",
+        "name": "Air Max 1 'Monarch'",
+        "price":"$99.99",
+        "description": "In collaboration with Patta, the Nike Air Max 1 Patta Waves Monarch (with Bracelet) features a grey mesh upper with white overlays with Monarch Swooshes and a wave-shaped mudguard."
+      },
+      {
+        "img": "/images/redfoam.png",
+        "name": "Air Foamposite One 'Metallic Red' 2023",
+        "price":"$204.99",
+        "description": "The 2023 reissue of the Nike Air Foamposite One ‘Metallic Red’ brings back a vibrant colorway of the retro hoops shoe originally released in 2012."
+      }
+]

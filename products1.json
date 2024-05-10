@@ -1,0 +1,74 @@
+[
+    {
+        "img": "/images/laf1.png",
+        "name": "Air Jordan 1 Retro High OG 'Chicago Lost & Found",
+        "price":"$399.99",
+        "description": "The Air Jordan 1 Retro High OG ‘Chicago Lost & Found’ brings back the iconic silhouette that started it all. "
+      },
+      {
+        "img": "/images/milib4.png",
+        "name": "Air Jordan 4 Retro 'Military Blue' 2024",
+        "price":"$249.99",
+        "description": "The 2024 edition of the Air Jordan 4 Retro ‘Military Blue’ also known as 'Industrial Blue' brings back a coveted OG colorway of the legacy silhouette. "
+      },
+      {
+        "img": "/images/wc3.png",
+        "name": "Air Jordan 3 Retro 'White Cement Reimagined",
+        "price":"$329.99",
+        "description": "The Air Jordan 3 Retro 'White Cement Reimagined' brings back one of the original colorways, celebrating the 35th anniversary of the AJ3. "
+      },
+      {
+        "img": "/images/panda.png",
+        "name": "Dunk Low 'Black White'",
+        "price":"$99.99",
+        "description": "The Nike Dunk Low ‘Black White’ also known as 'Panda' treats the retro model to an essential two-tone color scheme that accentuates the sneaker’s clean lines."
+      },
+      {
+        "img": "/images/purpledunk.png",
+        "name": "Dunk Low 'Concord'",
+        "price":"$89.99",
+        "description": "The Nike Dunk Low 'Concord' is built with smooth leather construction, featuring a crisp white base with bluish purple overlays and a color-matched Swoosh. "
+      },
+      {
+        "img": "/images/reddunk.png",
+        "name": "Dunk Low 'Gym Red'",
+        "price":"$99.99",
+        "description": "The Nike Dunk Low ‘Gym Red’ showcases a familiar two-tone design that recalls the original ‘Be True to Your School’ series from 1985."
+      },
+      {
+        "img": "/images/bphoodie.png",
+        "name": "BAPE Color Camo Shark Full Zip Hoodie 'Red'",
+        "price":"399.99",
+        "description": "BAPE's Color Camo Shark Full Zip Hoodie 'Red' from FW20 brings back the Japanese brand's iconic shark-face design. "
+      },
+      {
+          "img": "/images/bpcolorhoodie.png",
+          "name": "BAPE Multi Camo 2nd Shark Full Zip Hoodie 'White'",
+          "price":"$530.99",
+          "description": "BAPE's Multi-Color Camo Shark Full Zip Hoodie from FW20 brings back the Japanese brand's iconic shark-face design."
+        },
+        {
+          "img": "/images/bpblackhoodie.png",
+          "name": "BAPE Color Camo Shark Full Zip Hoodie 'Black'",
+          "price":"$499.99",
+          "description": "From SS23, BAPE's Color Camp Shark Full Zip Hoodie is designed in black camouflage and features a full-extension zip that can be extended to join the hood."
+        },
+        {
+            "img": "/images/esseblack.png",
+            "name": "Fear of God Essentials Pullover Hoodie 'Stretch Limo' SS22",
+            "price":"$49.99",
+            "description": "Fear of God Essentials focuses on lasting staples that complement the brand's mainline collections."
+          },
+          {
+              "img": "/images/essegray.png",
+              "name": "Fear of God Essentials Hoodie 'Dark Oatmeal'",
+              "price":"$54.99",
+              "description": "Made from a cotton-blend fleece, the Fear of God Essentials Hoodie 'Dark Oatmeal' from FW22 is a staple that can be worn year-round."
+          },
+          {
+              "img": "/images/essewhite.png",
+              "name": "Fear of God Essentials Hoodie 'Light Oatmeal'",
+              "price":"$49.99",
+              "description": "Fear of God Essentials focuses on lasting staples that complement the brand's mainline collections."
+          }
+]

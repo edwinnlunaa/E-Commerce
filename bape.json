@@ -1,0 +1,74 @@
+[
+    {
+      "img": "/images/bphoodie.png",
+      "name": "BAPE Color Camo Shark Full Zip Hoodie 'Red'",
+      "price":"399.99",
+      "description": "BAPE's Color Camo Shark Full Zip Hoodie 'Red' from FW20 brings back the Japanese brand's iconic shark-face design. "
+    },
+    {
+        "img": "/images/bpcolorhoodie.png",
+        "name": "BAPE Multi Camo 2nd Shark Full Zip Hoodie 'White'",
+        "price":"$530.99",
+        "description": "BAPE's Multi-Color Camo Shark Full Zip Hoodie from FW20 brings back the Japanese brand's iconic shark-face design."
+      },
+      {
+        "img": "/images/bpblackhoodie.png",
+        "name": "BAPE Color Camo Shark Full Zip Hoodie 'Black'",
+        "price":"$499.99",
+        "description": "From SS23, BAPE's Color Camp Shark Full Zip Hoodie is designed in black camouflage and features a full-extension zip that can be extended to join the hood."
+      },
+      {
+        "img": "/images/bpblackt.png",
+        "name": "BAPE Overprinted College Tee 'Black'",
+        "price":"$99.99",
+        "description": "The BAPE black color T Shirt SS20 is a stylish and eye-catching piece from the iconic Japanese streetwear brand"
+      },
+      {
+        "img": "/images/bapet.png",
+        "name": "BAPE Color Camo Big Ape Head Tee 'White/Red'",
+        "price":"$99.99",
+        "description": "The BAPE Color Camo Big Ape Head T Shirt SS20 White Red is a stylish and eye-catching piece from the iconic Japanese streetwear brand"
+      },
+      {
+        "img": "/images/abpt.png",
+        "name": "BAPE College Tee 'Black'",
+        "price":"$99.99",
+        "description": "The BAPE black color T Shirt SS20 is a stylish and eye-catching piece from the iconic Japanese streetwear brand"
+      },
+      {
+        "img": "/images/redbapesta.png",
+        "name": "Bapesta #5 'Red'",
+        "price":"$899.99",
+        "description": "Red bapesta's made from premium leather and feature BAPE®'s iconic STA logo on the sides."
+      },
+      {
+        "img": "/images/blackbapesta.png",
+        "name": "Bapesta 'Black' 2022",
+        "price":"$499.99",
+        "description": "Black bapesta's made from premium leather and feature BAPE®'s iconic STA logo on the sides."
+      },
+      {
+        "img": "/images/bluebapesta.png",
+        "name": "Sk8 Sta #5 'Luxury Sport Monogram - Blue'",
+        "price":"$499.99",
+        "description": "Blue bapesta's made from premium leather and feature BAPE®'s iconic STA logo on the sides."
+      },
+      {
+        "img": "/images/purplebeanie.png",
+        "name": "BAPE Color Camo Knit Cap 'Purple'",
+        "price":"$125.99",
+        "description": "Bape's warm knit cap beanie'"
+      },
+      {
+        "img": "/images/redbeanie.png",
+        "name": "BAPE Color Camo Knit Cap 'Red'",
+        "price":"$150.99",
+        "description": "Bape's red warm knit beanie "
+      },
+      {
+        "img": "/images/blackbeanie.png",
+        "name": "BAPE Patch Knit Cap 'Black'",
+        "price":"$80.99",
+        "description": "Bape's black warm knit cap beanie"
+      }
+    ]

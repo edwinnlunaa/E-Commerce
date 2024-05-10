@@ -1,0 +1,74 @@
+[
+    {
+      "img": "/images/esseblack.png",
+      "name": "Fear of God Essentials Pullover Hoodie 'Stretch Limo' SS22",
+      "price":"$49.99",
+      "description": "Fear of God Essentials focuses on lasting staples that complement the brand's mainline collections."
+    },
+    {
+        "img": "/images/essegray.png",
+        "name": "Fear of God Essentials Hoodie 'Dark Oatmeal'",
+        "price":"$54.99",
+        "description": "Made from a cotton-blend fleece, the Fear of God Essentials Hoodie 'Dark Oatmeal' from FW22 is a staple that can be worn year-round."
+    },
+    {
+        "img": "/images/essewhite.png",
+        "name": "Fear of God Essentials Hoodie 'Light Oatmeal'",
+        "price":"$49.99",
+        "description": "Fear of God Essentials focuses on lasting staples that complement the brand's mainline collections."
+    },
+    {
+        "img": "/images/taupet.png",
+        "name": "Fear of God Essentials Essentials Tee 'Desert Taupe'",
+        "price":"$56.99",
+        "description": "The Fear of God Essentials Tee 'Desert Taupe' is from the brand's SS22 collection."
+    },
+    {
+        "img": "/images/esseblackt.png",
+        "name": "Fear of God Essentials Tee 'Stretch Limo'",
+        "price":"$40.99",
+        "description": "The Fear of God Essentials Tee 'Stretch Limo' is from the brand's SS22 collection."
+    },
+    {
+        "img": "/images/beiget.png",
+        "name": "Fear of God Essentials Tee 'Dusty Beige'",
+        "price":"$74.99",
+        "description": "The Fear of God Essentials Tee 'Dusty Beige' is from the brand's SS22 collection."
+    },
+    {
+        "img": "/images/esseshortsb.png",
+        "name": "Fear of God Essentials Sweatshort 'Stretch Limo'",
+        "price":"$49.99",
+        "description": "The Fear of God Essentials Sweatshort 'Stretch Limo' from SS22 resembles vintage sportswear with a straight-leg fit and tonal printed logo."
+    },
+    {
+        "img": "/images/grayshorts.png",
+        "name": "Fear of God Essentials Sweatshort 'Light Oatmeal'",
+        "price":"$69.99",
+        "description": "From SS22, the Fear of God Essentials Sweatshort 'Light Oatmeal' is made from the brand's signature cotton-blend fleece and features a heavyweight feel. "
+    },
+    {
+        "img": "/images/lastshorts.png",
+        "name": "Fear of God Essentials Sweatshort 'String'",
+        "price":"$99.99",
+        "description": "The Fear of God Essentials Sweatshort 'String' from FW21 is crafted with a mid-weight cotton blend with soft fleece backing."
+    },
+    {
+        "img": "/images/bluehoodie.png",
+        "name": "Fear of God Essentials Hoodie 'Sycamore'",
+        "price":"49.99",
+        "description": "This Fear of God Essentials Hoodie is detailed with a minimalist logo print on the front and brand patch on the hood."
+    },
+    {
+        "img": "/images/pinkhoodie.png",
+        "name": "Fear of God Essentials Hoodie 'Coral'",
+        "price":"62.99",
+        "description": "This Coral Fear of God Essentials Hoodie is detailed with a minimalist logo print on the front and brand patch on the hood."
+    },
+    {
+        "img": "/images/lasthoodie.png",
+        "name": "Fear of God Essentials Hoodie 'Seal'",
+        "price":"58.99",
+        "description": "An excellent example of the brand's minimalist aesthetic, this Fear of God Essentials Hoodie from SS23 is flocked with the brand's logo across the front in sans-serif lettering."
+    }
+]

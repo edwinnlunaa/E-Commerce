@@ -1,0 +1,76 @@
+[
+
+      {
+        "img": "/images/laf1.png",
+        "name": "Air Jordan 1 Retro High OG 'Chicago Lost & Found",
+        "price":"$399.99",
+        "description": "The Air Jordan 1 Retro High OG ‘Chicago Lost & Found’ brings back the iconic silhouette that started it all. "
+      },
+      {
+        "img": "/images/milib4.png",
+        "name": "Air Jordan 4 Retro 'Military Blue' 2024",
+        "price":"$249.99",
+        "description": "The 2024 edition of the Air Jordan 4 Retro ‘Military Blue’ also known as 'Industrial Blue' brings back a coveted OG colorway of the legacy silhouette. "
+      },
+      {
+        "img": "/images/wc3.png",
+        "name": "Air Jordan 3 Retro 'White Cement Reimagined",
+        "price":"$329.99",
+        "description": "The Air Jordan 3 Retro 'White Cement Reimagined' brings back one of the original colorways, celebrating the 35th anniversary of the AJ3. "
+      },
+      {
+        "img": "/images/sj11.png",
+        "name": "Air Jordan 11 Retro 'Space Jam' 2016",
+        "price":"$435.99",
+        "description": "The Air Jordan 11 Retro ‘Space Jam’ 2016 commemorates the 20th anniversary of the movie Space Jam."
+      },
+      {
+        "img": "/images/unc6.png",
+        "name": "Air Jordan 6 Retro 'UNC Home'",
+        "price":"$205.99",
+        "description": "The Air Jordan 6 Retro ‘UNC Home’ features a familiar color combination that pays homage to MJ’s alma mater. "
+      },
+      {
+        "img": "/images/offw5.png",
+        "name": "Off-White x Air Jordan 5 Retro SP 'Muslin'",
+        "price":"$1004.99",
+        "description": "The Off-White x Air Jordan 5 SP 'Muslin' delivers Virgil Abloh’s stylized take on the retro silhouette. "
+      },
+      {
+        "img": "/images/lucky2.png",
+        "name": "Air Jordan 2 Retro 'Lucky Green'",
+        "price":"$114.99",
+        "description": "The Air Jordan 2 Retro ‘Lucky Green’ updates Michael Jordan’s sophomore signature shoe with a verdant pop of color."
+      },
+      {
+        "img": "/images/bordo7.png",
+        "name": "Air Jordan 7 Retro 'Bordeaux' 2015",
+        "price":"$399.99",
+        "description": "Of the five original colorways released in 1992, the Air Jordan 7 ‘Bordeaux’ is considered the most distinctive."
+      },
+      {
+        "img": "/images/aqua8.png",
+        "name": "Air Jordan 8 Retro 'Aqua' 2015",
+        "price":"$409.99",
+        "description": "The Jordan 8 ‘Aqua’ was one of three OG colorways released in 1993. The sneaker made its first and only on-court appearance at the 1993 All-Star game where Jordan dropped 30 points"
+      },
+      {
+        "img": "/images/olive9.png",
+        "name": "Air Jordan 9 Retro 'Olive' 2012",
+        "price":"$304.99",
+        "description": "This is the 2012 reissue of the Air Jordan 9 ‘Olive,’ an OG colorway that initially released in 1994."
+      },
+      {
+        "img": "/images/gold12.png",
+        "name": "Air Jordan 12 Retro 'University Gold'",
+        "price":"$279.99",
+        "description": "The Air Jordan 12 Retro ‘University Gold’ features a simple two-tone color scheme."
+      },
+      {
+        "img": "/images/flint13.png",
+        "name": "Air Jordan 13 Retro 'Flint' 2020",
+        "price":"$249.99",
+        "description": "Released in May 2020, the Air Jordan 13 Retro 'Flint' 2020 brings back an OG colorway in Flint Grey and French Blue."
+      }
+
+]
